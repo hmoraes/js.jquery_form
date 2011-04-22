@@ -7,7 +7,7 @@ library = Library('jquery_form', 'resources')
 # For options and examples, see the fanstatic documentation.
 # resource1 = Resource(library, 'style.css')
 
-form = Resource(
+jquery_form = Resource(
     library,
     'jquery.form.js',
     depends=[jquery]
