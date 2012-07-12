@@ -1,10 +1,12 @@
 CHANGES
 *******
 
-2.69-1 (unreleased)
+2.82 (unreleased)
 ===================
 
-- Nothing changed yet.
+- Add jquery.form plugin version 2.82
+
+- Add minified variant
 
 
 2.69 (2011-04-25)
